@@ -2,12 +2,15 @@
 ```
 The Keyauth Server can simulate nearly all aspects of Keyauth, including:
 
-Full simulation of the initialization process, including the login system.
+Full simulation of the Server
 Features such as logs, bans, and blacklists are disabled
 
 We hereby declare that we do not possess any ownership rights or proprietary claims to the provided software
 The author and owner of the provided software is Keyauth LLC. 
 Forceful removal (DMCA takedown) of the provided content will result in further retaliation.
+
+Legal Contact:
+legal@private1337.8shield.net
 ```
 
 <details>
