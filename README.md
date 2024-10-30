@@ -1,10 +1,9 @@
 ## <a id="features"></a>📋・Information
 ```
-The Keyauth Emulator can simulate nearly all aspects of Keyauth, including:
+The Keyauth Server can simulate nearly all aspects of Keyauth, including:
 
 Full simulation of the initialization process, including the login system.
 Features such as logs, bans, and blacklists are disabled
-With this project, you can effectively run Keyauth-based applications Selfhosted 
 
 DISCLAIMER:
 
@@ -12,16 +11,6 @@ This tool is intended solely for educational purposes,
 such as learning how Keyauth works. 
 Use it only on applications that you own or have explicit permission to use.
 ```
-
-# End of support
-
-Hi everyone, this project is finished. I don't think anything more is needed as the Only problem is that Variables or Files can't be accessed from keyauth servers which will never possible regardless.
-
-Once again thx to github.com/SamuelTulach for creating it and yeah
-
-Have fun, btw don't dare to dm me about help or i will just block your ass
-
-# You can do any pull requests, i'll check them and approve or disapprove then
 
 <details>
   <summary>Click me for the Usage Tutorial</summary>
@@ -43,16 +32,10 @@ Both of them are in the Folder x64/Release/certs
 Now please install the OpenSSL 3.3.2 Windows Installer. 
 https://kb.firedaemon.com/support/solutions/articles/4000121705#Download-OpenSSL
 
-Step 2: Obtain application secret
-Example of doing so: https://player.vimeo.com/video/1006943145
+Once everything is done run Emulator.exe and paste your secret key of your keyauth loader
 
-you can use regex ^[a-zA-Z0-9]{64}$ to show only strings that match with the secret format.
+REMINDER ONLY MEANT FOR ALLOWED USE OF LOADERS AND MEANT FOR EDUCATION
 
-Step 3: Run it
-
-Once everything is done run Emulator.exe.
-
-if everything worked fine and you got no errors then procced to open the Keyauth Loader
 ```
 </details>
 
@@ -71,16 +54,4 @@ https://kb.firedaemon.com/support/solutions/articles/4000121705#Download-OpenSSL
 ```
 </details>
 
-<details>
-  <summary>Click me for the Remote Hosting </summary>
-
-## <a id="Changelog"></a>🖥️・How to host the Emulator on a RDP
-```
-1. Get a Windows RDP
-2. Recompile the Emulator with the server IP instead of 127.0.0.1
-3. Install The Emulator on the RDP ( like u did on your PC )
-4. Disable Firewall or let port 443 be enabled
-5. Now just use instead of 127.0.0.1 in the hosts file the ip of the rdp
-```
-</details>
 
