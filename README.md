@@ -7,7 +7,7 @@ Features such as logs, bans, and blacklists are disabled
 
 We hereby declare that we do not possess any ownership rights or proprietary claims to the provided software
 The author and owner of the provided software is Keyauth LLC. 
-Forceful removal (DMCA takedown) of the provided content **will** result in further retaliation.
+Forceful removal (DMCA takedown) of the provided content will result in further retaliation.
 ```
 
 <details>
